@@ -99,3 +99,4 @@ VITE_API_BASE_URL=https://your-api-domain.com/api
 | PUT    | /api/notes/:id   | Update a note    |
 | DELETE | /api/notes/:id   | Delete a note    |
 | GET    | /health          | Health check     |
+
